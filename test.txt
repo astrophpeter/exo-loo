@@ -1,5 +1,0 @@
-Hi Peter!
-This is a test to see if I got this thing working.
-If you read this, it means it works.
-Cheers,
-Luis
