@@ -1,7 +1,7 @@
 import numpy as np
 import scipy.constants as sc
 import pathlib
-import skbio.stats.composition as scb
+#import skbio.stats.composition as scb
 
 planet = "HD209458b"
 
@@ -83,7 +83,7 @@ nmols=len(mol_list)
 #Priors
 if assume_hydrogen_rich==False:
     Xi_priors=np.append(np.full(nmols-1,1e-12),1-(nmols-1)*1e-12)
-    xi_priors=scb.clr(Xi_priors)
+    #xi_priors=scb.clr(Xi_priors)
     xi_upper_prior=xi_priors[-1]
     xi_lower_prior=xi_priors[0]
     for i,key in enumerate(mol_list):

@@ -30,11 +30,9 @@ class Retrieval:
     '''
 
 
-    def get_model(self, ret_params=None):
-        print(ret_params)   #Just making sure that different ret_params are being passed
-        result=np.ones(29) #Here, in reality we would call the other functions that would evaluate the model given the ret_params
-
-        return result
+    def get_model(self, wavelength, ret_params=None):
+        #you can put what evert code you want here but lets just return the input for now.
+        return wavelength
 
     def loglikelihood_gp(self,cube,ndim,nparams): #This is a skeleton of what I would like to code for multines to receive
         # convert cube to a numpy array

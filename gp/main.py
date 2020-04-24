@@ -23,18 +23,16 @@ data_bin=data[:,1]
 data_depth=data[:,2]
 data_err=data[:,3]
 
-
-ret = Retrieval() #This is the class instance  that in the retrieval code will have the Pressure temperature grid, cross sections, and the sampling algorithms. In here, the function to get the model resides.
-
 mean_model=CustomModel(**{'X_h2o':-7.3, 'T0':1200.0, 'Pref':-1.0}) #input of different model parameters
 params_dic={'X_h2o':-7.5, 'T0':1200.0, 'Pref':-1.0}
-y=mean_model.get_value(retrieval=ret)
-print(y)  #By design, this should return an array of len=29 and only zeros
-mean_model.set_parameter_vector([-5.4,1300,-3]) #try new input of different model parameters
-y=mean_model.get_value(retrieval=ret)
-print(y) #By design, this should return an array of len=29 and only zeros
-kernel = terms.Matern32Term(log_sigma=np.log(np.var(y)), log_rho=-np.log(10.0))
+
+kernel = terms.Matern32Term(log_sigma=np.log(np.var(data_depth)), log_rho=np.log(20.0))
 gp = celerite.GP(kernel, mean=mean_model, fit_mean=True)
 gp.compute(data_lam, data_err)
 
-# print("Initial log-likelihood: {0}".format(gp.log_likelihood(y)))
+def log_likelihood(params):
+    gp.set_parameter_vector(params)
+    return gp.log_likelihood(data_depth)
+
+test_parameter_values = np.ones(5)
+print("Initial log-likelihood: {0}".format(log_likelihood(test_parameter_values)))
