@@ -1,0 +1,1283 @@
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+slurmstepd: error: *** JOB 38639184 ON cpu-e-861 CANCELLED AT 2021-04-25T03:03:19 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 38639184.0 ON cpu-e-861 CANCELLED AT 2021-04-25T03:03:19 DUE TO TIME LIMIT ***
+slurmstepd: error: task_p_post_term: rmdir(/sys/fs/cgroup/cpuset/slurm38639184/slurm38639184.4294967294_0) failed Device or resource busy

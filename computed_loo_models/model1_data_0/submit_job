@@ -1,0 +1,69 @@
+#!/bin/bash
+#!
+#! Example SLURM job script for Peta4-Skylake (Skylake CPUs, OPA)
+#! Last updated: Mon 13 Nov 12:25:17 GMT 2017
+#!
+
+#!#############################################################
+#!#### Modify the options in this section as appropriate ######
+#!#############################################################
+
+#! sbatch directives begin here ###############################
+#! Name of the job:
+#SBATCH -J cpujob
+#! Which project should be charged:
+#SBATCH -A MADHUSUDHAN-SL3-CPU
+#! How many whole nodes should be allocated?
+#SBATCH --nodes=4
+#! How many (MPI) tasks will there be in total? (<= nodes*32)
+#! The skylake/skylake-himem nodes have 32 CPUs (cores) each.
+#SBATCH --ntasks=128
+#! How much wallclock time will be required?
+#SBATCH --time=00:10:00
+#! What types of email messages do you wish to receive?
+#SBATCH --mail-type=ALL
+#! Uncomment this to prevent the job from being requeued (e.g. if
+#! interrupted by node failure or system downtime):
+##SBATCH --no-requeue
+
+#! For 6GB per CPU, set "-p skylake"; for 12GB per CPU, set "-p skylake-himem":
+#SBATCH -p skylake
+
+#! (note that SLURM reproduces the environment at submission irrespective of ~/.bashrc):
+. /etc/profile.d/modules.sh                # Leave this line (enables the module command)
+module purge                               # Removes all modules still loaded
+module load rhel7/default-peta4            # REQUIRED - loads the basic environment
+source $HOME/virtual_environments/exoret/bin/activate
+
+application="python -u main.py"
+
+workdir="$SLURM_SUBMIT_DIR"
+
+CMD="mpirun $application $options"
+
+
+###############################################################
+### You should not have to change anything below this line ####
+###############################################################
+
+cd $workdir
+echo -e "Changed directory to `pwd`.\n"
+
+JOBID=$SLURM_JOB_ID
+
+echo -e "JobID: $JOBID\n======"
+echo "Time: `date`"
+echo "Running on master node: `hostname`"
+echo "Current directory: `pwd`"
+
+if [ "$SLURM_JOB_NODELIST" ]; then
+        #! Create a machine file:
+        export NODEFILE=`generate_pbs_nodefile`
+        cat $NODEFILE | uniq > machine.file.$JOBID
+        echo -e "\nNodes allocated:\n================"
+        echo `cat machine.file.$JOBID | sed -e 's/\..*$//g'`
+fi
+
+echo -e "\nExecuting command:\n==================\n$CMD\n"
+
+eval $CMD

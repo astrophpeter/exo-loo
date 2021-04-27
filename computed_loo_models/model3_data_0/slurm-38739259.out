@@ -1,0 +1,2645 @@
+Changed directory to /rds/user/lcw41/hpc-work/retrieval/transmission/runs/loo_models/model3_data_0.
+
+JobID: 38739259
+======
+Time: Mon 26 Apr 14:06:42 BST 2021
+Running on master node: cpu-e-1122
+Current directory: /rds/user/lcw41/hpc-work/retrieval/transmission/runs/loo_models/model3_data_0
+
+Nodes allocated:
+================
+cpu-e-1122 cpu-e-1123 cpu-e-1124 cpu-e-1125
+
+Executing command:
+==================
+mpirun python -u main.py 
+
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+/home/lcw41/virtual_environments/exoret/lib/python3.7/site-packages/skbio/util/_testing.py:15: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as pdt
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+[qelr_create_qp:683]create qp: failed on ibv_cmd_create_qp with 22
+Run for  HD209458b  retrieval named  xK_10
+ MultiNest Warning: no resume file found, starting from scratch
+ *****************************************************
+ MultiNest v3.10
+ Copyright Farhan Feroz & Mike Hobson
+ Release Jul 2015
+
+ no. of live points = 1000
+ dimensionality =    8
+ *****************************************************
+ Starting MultiNest
+ generating live points
+ live points generated, starting sampling
+Acceptance Rate:                        0.997151
+Replacements:                               1050
+Total Samples:                              1053
+Nested Sampling ln(Z):             -51427.118080
+Acceptance Rate:                        0.992780
+Replacements:                               1100
+Total Samples:                              1108
+Nested Sampling ln(Z):             -39649.684110
+Acceptance Rate:                        0.983747
+Replacements:                               1150
+Total Samples:                              1169
+Nested Sampling ln(Z):             -34975.608630
+Acceptance Rate:                        0.977199
+Replacements:                               1200
+Total Samples:                              1228
+Nested Sampling ln(Z):             -29142.691866
+Acceptance Rate:                        0.968242
+Replacements:                               1250
+Total Samples:                              1291
+Nested Sampling ln(Z):             -26836.166774
+Acceptance Rate:                        0.953778
+Replacements:                               1300
+Total Samples:                              1363
+Nested Sampling ln(Z):             -23860.363820
+Acceptance Rate:                        0.946704
+Replacements:                               1350
+Total Samples:                              1426
+Nested Sampling ln(Z):             -21174.101620
+Acceptance Rate:                        0.940228
+Replacements:                               1400
+Total Samples:                              1489
+Nested Sampling ln(Z):             -19271.155578
+Acceptance Rate:                        0.930083
+Replacements:                               1450
+Total Samples:                              1559
+Nested Sampling ln(Z):             -17542.772730
+Acceptance Rate:                        0.924214
+Replacements:                               1500
+Total Samples:                              1623
+Nested Sampling ln(Z):             -16019.304876
+Acceptance Rate:                        0.910159
+Replacements:                               1550
+Total Samples:                              1703
+Nested Sampling ln(Z):             -14762.046361
+Acceptance Rate:                        0.900394
+Replacements:                               1600
+Total Samples:                              1777
+Nested Sampling ln(Z):             -13554.490094
+Acceptance Rate:                        0.896252
+Replacements:                               1650
+Total Samples:                              1841
+Nested Sampling ln(Z):             -12395.119477
+Acceptance Rate:                        0.888657
+Replacements:                               1700
+Total Samples:                              1913
+Nested Sampling ln(Z):             -11306.352537
+Acceptance Rate:                        0.882501
+Replacements:                               1750
+Total Samples:                              1983
+Nested Sampling ln(Z):             -10342.315105
+Acceptance Rate:                        0.877621
+Replacements:                               1800
+Total Samples:                              2051
+Nested Sampling ln(Z):              -9540.527395
+Acceptance Rate:                        0.867323
+Replacements:                               1850
+Total Samples:                              2133
+Nested Sampling ln(Z):              -8762.373728
+Acceptance Rate:                        0.862460
+Replacements:                               1900
+Total Samples:                              2203
+Nested Sampling ln(Z):              -8068.587357
+Acceptance Rate:                        0.856766
+Replacements:                               1950
+Total Samples:                              2276
+Nested Sampling ln(Z):              -7387.116806
+Acceptance Rate:                        0.854336
+Replacements:                               2000
+Total Samples:                              2341
+Nested Sampling ln(Z):              -6680.420613
+Acceptance Rate:                        0.849917
+Replacements:                               2050
+Total Samples:                              2412
+Nested Sampling ln(Z):              -6043.645307
+Acceptance Rate:                        0.837989
+Replacements:                               2100
+Total Samples:                              2506
+Nested Sampling ln(Z):              -5574.785306
+Acceptance Rate:                        0.833010
+Replacements:                               2150
+Total Samples:                              2581
+Nested Sampling ln(Z):              -5039.899126
+Acceptance Rate:                        0.829876
+Replacements:                               2200
+Total Samples:                              2651
+Nested Sampling ln(Z):              -4636.926313
+Acceptance Rate:                        0.823874
+Replacements:                               2250
+Total Samples:                              2731
+Nested Sampling ln(Z):              -4204.601504
+Acceptance Rate:                        0.814736
+Replacements:                               2300
+Total Samples:                              2823
+Nested Sampling ln(Z):              -3785.286784
+Acceptance Rate:                        0.809229
+Replacements:                               2350
+Total Samples:                              2904
+Nested Sampling ln(Z):              -3488.807190
+Acceptance Rate:                        0.803751
+Replacements:                               2400
+Total Samples:                              2986
+Nested Sampling ln(Z):              -3200.959000
+Acceptance Rate:                        0.800915
+Replacements:                               2450
+Total Samples:                              3059
+Nested Sampling ln(Z):              -2955.492420
+Acceptance Rate:                        0.798467
+Replacements:                               2500
+Total Samples:                              3131
+Nested Sampling ln(Z):              -2734.373588
+Acceptance Rate:                        0.791925
+Replacements:                               2550
+Total Samples:                              3220
+Nested Sampling ln(Z):              -2505.533946
+Acceptance Rate:                        0.783605
+Replacements:                               2600
+Total Samples:                              3318
+Nested Sampling ln(Z):              -2301.397639
+Acceptance Rate:                        0.776443
+Replacements:                               2650
+Total Samples:                              3413
+Nested Sampling ln(Z):              -2107.603020
+Acceptance Rate:                        0.765306
+Replacements:                               2700
+Total Samples:                              3528
+Nested Sampling ln(Z):              -1949.630339
+Acceptance Rate:                        0.759039
+Replacements:                               2750
+Total Samples:                              3623
+Nested Sampling ln(Z):              -1797.086296
+Acceptance Rate:                        0.752284
+Replacements:                               2800
+Total Samples:                              3722
+Nested Sampling ln(Z):              -1657.928647
+Acceptance Rate:                        0.746464
+Replacements:                               2850
+Total Samples:                              3818
+Nested Sampling ln(Z):              -1516.082047
+Acceptance Rate:                        0.742068
+Replacements:                               2900
+Total Samples:                              3908
+Nested Sampling ln(Z):              -1396.340602
+Acceptance Rate:                        0.735294
+Replacements:                               2950
+Total Samples:                              4012
+Nested Sampling ln(Z):              -1304.672581
+Acceptance Rate:                        0.725338
+Replacements:                               3000
+Total Samples:                              4136
+Nested Sampling ln(Z):              -1194.974078
+Acceptance Rate:                        0.717141
+Replacements:                               3050
+Total Samples:                              4253
+Nested Sampling ln(Z):              -1089.650199
+Acceptance Rate:                        0.709220
+Replacements:                               3100
+Total Samples:                              4371
+Nested Sampling ln(Z):              -1001.244330
+Acceptance Rate:                        0.699223
+Replacements:                               3150
+Total Samples:                              4505
+Nested Sampling ln(Z):               -932.901897
+Acceptance Rate:                        0.696106
+Replacements:                               3200
+Total Samples:                              4597
+Nested Sampling ln(Z):               -861.652152
+Acceptance Rate:                        0.688413
+Replacements:                               3250
+Total Samples:                              4721
+Nested Sampling ln(Z):               -772.854001
+Acceptance Rate:                        0.684505
+Replacements:                               3300
+Total Samples:                              4821
+Nested Sampling ln(Z):               -705.224018
+Acceptance Rate:                        0.675403
+Replacements:                               3350
+Total Samples:                              4960
+Nested Sampling ln(Z):               -662.559592
+Acceptance Rate:                        0.666536
+Replacements:                               3400
+Total Samples:                              5101
+Nested Sampling ln(Z):               -616.397023
+Acceptance Rate:                        0.658774
+Replacements:                               3450
+Total Samples:                              5237
+Nested Sampling ln(Z):               -555.180352
+Acceptance Rate:                        0.651163
+Replacements:                               3500
+Total Samples:                              5375
+Nested Sampling ln(Z):               -512.296084
+Acceptance Rate:                        0.646866
+Replacements:                               3550
+Total Samples:                              5488
+Nested Sampling ln(Z):               -476.069337
+Acceptance Rate:                        0.638978
+Replacements:                               3600
+Total Samples:                              5634
+Nested Sampling ln(Z):               -437.435846
+Acceptance Rate:                        0.634341
+Replacements:                               3650
+Total Samples:                              5754
+Nested Sampling ln(Z):               -390.595518
+Acceptance Rate:                        0.626588
+Replacements:                               3700
+Total Samples:                              5905
+Nested Sampling ln(Z):               -364.543284
+Acceptance Rate:                        0.618506
+Replacements:                               3750
+Total Samples:                              6063
+Nested Sampling ln(Z):               -335.881037
+Acceptance Rate:                        0.610932
+Replacements:                               3800
+Total Samples:                              6220
+Nested Sampling ln(Z):               -315.063638
+Acceptance Rate:                        0.605441
+Replacements:                               3850
+Total Samples:                              6359
+Nested Sampling ln(Z):               -293.823491
+Acceptance Rate:                        0.597518
+Replacements:                               3900
+Total Samples:                              6527
+Nested Sampling ln(Z):               -265.792701
+Acceptance Rate:                        0.590169
+Replacements:                               3950
+Total Samples:                              6693
+Nested Sampling ln(Z):               -242.586124
+Acceptance Rate:                        0.585995
+Replacements:                               4000
+Total Samples:                              6826
+Nested Sampling ln(Z):               -225.100303
+Acceptance Rate:                        0.582147
+Replacements:                               4050
+Total Samples:                              6957
+Nested Sampling ln(Z):               -206.683485
+Acceptance Rate:                        0.575600
+Replacements:                               4100
+Total Samples:                              7123
+Nested Sampling ln(Z):               -185.872064
+Acceptance Rate:                        0.569429
+Replacements:                               4150
+Total Samples:                              7288
+Nested Sampling ln(Z):               -164.712919
+Acceptance Rate:                        0.562927
+Replacements:                               4200
+Total Samples:                              7461
+Nested Sampling ln(Z):               -148.010430
+Acceptance Rate:                        0.558769
+Replacements:                               4250
+Total Samples:                              7606
+Nested Sampling ln(Z):               -131.248987
+Acceptance Rate:                        0.552912
+Replacements:                               4300
+Total Samples:                              7777
+Nested Sampling ln(Z):               -110.519893
+Acceptance Rate:                        0.550215
+Replacements:                               4350
+Total Samples:                              7906
+Nested Sampling ln(Z):                -89.791046
+Acceptance Rate:                        0.543009
+Replacements:                               4400
+Total Samples:                              8103
+Nested Sampling ln(Z):                -72.207157
+Acceptance Rate:                        0.540639
+Replacements:                               4450
+Total Samples:                              8231
+Nested Sampling ln(Z):                -54.347447
+Acceptance Rate:                        0.535714
+Replacements:                               4500
+Total Samples:                              8400
+Nested Sampling ln(Z):                -42.249635
+Acceptance Rate:                        0.529070
+Replacements:                               4550
+Total Samples:                              8600
+Nested Sampling ln(Z):                -25.233574
+Acceptance Rate:                        0.524157
+Replacements:                               4600
+Total Samples:                              8776
+Nested Sampling ln(Z):                -10.310052
+Acceptance Rate:                        0.519902
+Replacements:                               4650
+Total Samples:                              8944
+Nested Sampling ln(Z):                  6.164258
+Acceptance Rate:                        0.515238
+Replacements:                               4700
+Total Samples:                              9122
+Nested Sampling ln(Z):                 18.812345
+Acceptance Rate:                        0.513625
+Replacements:                               4750
+Total Samples:                              9248
+Nested Sampling ln(Z):                 29.919718
+Acceptance Rate:                        0.510584
+Replacements:                               4800
+Total Samples:                              9401
+Nested Sampling ln(Z):                 44.090380
+Acceptance Rate:                        0.504840
+Replacements:                               4850
+Total Samples:                              9607
+Nested Sampling ln(Z):                 56.668414
+Acceptance Rate:                        0.502667
+Replacements:                               4900
+Total Samples:                              9748
+Nested Sampling ln(Z):                 70.193105
+Acceptance Rate:                        0.499344
+Replacements:                               4950
+Total Samples:                              9913
+Nested Sampling ln(Z):                 83.185298
+Acceptance Rate:                        0.493583
+Replacements:                               5000
+Total Samples:                             10130
+Nested Sampling ln(Z):                 92.189065
+Acceptance Rate:                        0.490101
+Replacements:                               5050
+Total Samples:                             10304
+Nested Sampling ln(Z):                100.216378
+Acceptance Rate:                        0.484147
+Replacements:                               5100
+Total Samples:                             10534
+Nested Sampling ln(Z):                110.037923
+Acceptance Rate:                        0.480590
+Replacements:                               5150
+Total Samples:                             10716
+Nested Sampling ln(Z):                119.224234
+Acceptance Rate:                        0.477239
+Replacements:                               5200
+Total Samples:                             10896
+Nested Sampling ln(Z):                130.297532
+Acceptance Rate:                        0.476277
+Replacements:                               5250
+Total Samples:                             11023
+Nested Sampling ln(Z):                136.685640
+Acceptance Rate:                        0.472287
+Replacements:                               5300
+Total Samples:                             11222
+Nested Sampling ln(Z):                143.361856
+Acceptance Rate:                        0.470454
+Replacements:                               5350
+Total Samples:                             11372
+Nested Sampling ln(Z):                150.855066
+Acceptance Rate:                        0.467411
+Replacements:                               5400
+Total Samples:                             11553
+Nested Sampling ln(Z):                159.389838
+Acceptance Rate:                        0.465494
+Replacements:                               5450
+Total Samples:                             11708
+Nested Sampling ln(Z):                166.858308
+Acceptance Rate:                        0.461913
+Replacements:                               5500
+Total Samples:                             11907
+Nested Sampling ln(Z):                174.678224
+Acceptance Rate:                        0.457770
+Replacements:                               5550
+Total Samples:                             12124
+Nested Sampling ln(Z):                182.122143
+Acceptance Rate:                        0.455878
+Replacements:                               5600
+Total Samples:                             12284
+Nested Sampling ln(Z):                188.055148
+Acceptance Rate:                        0.452579
+Replacements:                               5650
+Total Samples:                             12484
+Nested Sampling ln(Z):                193.717640
+Acceptance Rate:                        0.451021
+Replacements:                               5700
+Total Samples:                             12638
+Nested Sampling ln(Z):                200.227655
+Acceptance Rate:                        0.449429
+Replacements:                               5750
+Total Samples:                             12794
+Nested Sampling ln(Z):                204.428989
+Acceptance Rate:                        0.445982
+Replacements:                               5800
+Total Samples:                             13005
+Nested Sampling ln(Z):                208.883280
+Acceptance Rate:                        0.443048
+Replacements:                               5850
+Total Samples:                             13204
+Nested Sampling ln(Z):                212.558773
+Acceptance Rate:                        0.440660
+Replacements:                               5900
+Total Samples:                             13389
+Nested Sampling ln(Z):                217.180618
+Acceptance Rate:                        0.438080
+Replacements:                               5950
+Total Samples:                             13582
+Nested Sampling ln(Z):                221.405677
+Acceptance Rate:                        0.435983
+Replacements:                               6000
+Total Samples:                             13762
+Nested Sampling ln(Z):                225.626199
+Acceptance Rate:                        0.434065
+Replacements:                               6050
+Total Samples:                             13938
+Nested Sampling ln(Z):                230.146587
+Acceptance Rate:                        0.432195
+Replacements:                               6100
+Total Samples:                             14114
+Nested Sampling ln(Z):                233.817219
+Acceptance Rate:                        0.428005
+Replacements:                               6150
+Total Samples:                             14369
+Nested Sampling ln(Z):                237.713319
+Acceptance Rate:                        0.425532
+Replacements:                               6200
+Total Samples:                             14570
+Nested Sampling ln(Z):                242.194136
+Acceptance Rate:                        0.422497
+Replacements:                               6250
+Total Samples:                             14793
+Nested Sampling ln(Z):                245.844410
+Acceptance Rate:                        0.419692
+Replacements:                               6300
+Total Samples:                             15011
+Nested Sampling ln(Z):                248.935119
+Acceptance Rate:                        0.418203
+Replacements:                               6350
+Total Samples:                             15184
+Nested Sampling ln(Z):                252.016487
+Acceptance Rate:                        0.415692
+Replacements:                               6400
+Total Samples:                             15396
+Nested Sampling ln(Z):                254.673294
+Acceptance Rate:                        0.413329
+Replacements:                               6450
+Total Samples:                             15605
+Nested Sampling ln(Z):                257.638282
+Acceptance Rate:                        0.410509
+Replacements:                               6500
+Total Samples:                             15834
+Nested Sampling ln(Z):                260.237293
+Acceptance Rate:                        0.408558
+Replacements:                               6550
+Total Samples:                             16032
+Nested Sampling ln(Z):                263.047297
+Acceptance Rate:                        0.405082
+Replacements:                               6600
+Total Samples:                             16293
+Nested Sampling ln(Z):                265.575921
+Acceptance Rate:                        0.403666
+Replacements:                               6650
+Total Samples:                             16474
+Nested Sampling ln(Z):                268.342952
+Acceptance Rate:                        0.401847
+Replacements:                               6700
+Total Samples:                             16673
+Nested Sampling ln(Z):                270.790273
+Acceptance Rate:                        0.399148
+Replacements:                               6750
+Total Samples:                             16911
+Nested Sampling ln(Z):                273.364702
+Acceptance Rate:                        0.396525
+Replacements:                               6800
+Total Samples:                             17149
+Nested Sampling ln(Z):                275.706879
+Acceptance Rate:                        0.393565
+Replacements:                               6850
+Total Samples:                             17405
+Nested Sampling ln(Z):                277.718842
+Acceptance Rate:                        0.390669
+Replacements:                               6900
+Total Samples:                             17662
+Nested Sampling ln(Z):                279.473054
+Acceptance Rate:                        0.388964
+Replacements:                               6950
+Total Samples:                             17868
+Nested Sampling ln(Z):                281.715336
+Acceptance Rate:                        0.386719
+Replacements:                               7000
+Total Samples:                             18101
+Nested Sampling ln(Z):                283.835071
+Acceptance Rate:                        0.384678
+Replacements:                               7050
+Total Samples:                             18327
+Nested Sampling ln(Z):                285.716677
+Acceptance Rate:                        0.382708
+Replacements:                               7100
+Total Samples:                             18552
+Nested Sampling ln(Z):                287.512066
+Acceptance Rate:                        0.381659
+Replacements:                               7150
+Total Samples:                             18734
+Nested Sampling ln(Z):                289.087312
+Acceptance Rate:                        0.378688
+Replacements:                               7200
+Total Samples:                             19013
+Nested Sampling ln(Z):                290.710452
+Acceptance Rate:                        0.376467
+Replacements:                               7250
+Total Samples:                             19258
+Nested Sampling ln(Z):                292.416255
+Acceptance Rate:                        0.373784
+Replacements:                               7300
+Total Samples:                             19530
+Nested Sampling ln(Z):                294.059468
+Acceptance Rate:                        0.371775
+Replacements:                               7350
+Total Samples:                             19770
+Nested Sampling ln(Z):                295.529244
+Acceptance Rate:                        0.370649
+Replacements:                               7400
+Total Samples:                             19965
+Nested Sampling ln(Z):                296.832798
+Acceptance Rate:                        0.369013
+Replacements:                               7450
+Total Samples:                             20189
+Nested Sampling ln(Z):                297.969533
+Acceptance Rate:                        0.367161
+Replacements:                               7500
+Total Samples:                             20427
+Nested Sampling ln(Z):                299.212662
+Acceptance Rate:                        0.365352
+Replacements:                               7550
+Total Samples:                             20665
+Nested Sampling ln(Z):                300.604981
+Acceptance Rate:                        0.364159
+Replacements:                               7600
+Total Samples:                             20870
+Nested Sampling ln(Z):                301.928361
+Acceptance Rate:                        0.361771
+Replacements:                               7650
+Total Samples:                             21146
+Nested Sampling ln(Z):                303.216800
+Acceptance Rate:                        0.360150
+Replacements:                               7700
+Total Samples:                             21380
+Nested Sampling ln(Z):                304.877712
+Acceptance Rate:                        0.358796
+Replacements:                               7750
+Total Samples:                             21600
+Nested Sampling ln(Z):                306.187650
+Acceptance Rate:                        0.356392
+Replacements:                               7800
+Total Samples:                             21886
+Nested Sampling ln(Z):                307.275312
+Acceptance Rate:                        0.355188
+Replacements:                               7850
+Total Samples:                             22101
+Nested Sampling ln(Z):                308.287099
+Acceptance Rate:                        0.353642
+Replacements:                               7900
+Total Samples:                             22339
+Nested Sampling ln(Z):                309.241935
+Acceptance Rate:                        0.351692
+Replacements:                               7950
+Total Samples:                             22605
+Nested Sampling ln(Z):                310.249145
+Acceptance Rate:                        0.350739
+Replacements:                               8000
+Total Samples:                             22809
+Nested Sampling ln(Z):                311.367240
+Acceptance Rate:                        0.347973
+Replacements:                               8050
+Total Samples:                             23134
+Nested Sampling ln(Z):                312.478737
+Acceptance Rate:                        0.345460
+Replacements:                               8100
+Total Samples:                             23447
+Nested Sampling ln(Z):                313.580076
+Acceptance Rate:                        0.343795
+Replacements:                               8150
+Total Samples:                             23706
+Nested Sampling ln(Z):                314.522548
+Acceptance Rate:                        0.342251
+Replacements:                               8200
+Total Samples:                             23959
+Nested Sampling ln(Z):                315.330416
+Acceptance Rate:                        0.340628
+Replacements:                               8250
+Total Samples:                             24220
+Nested Sampling ln(Z):                316.090749
+Acceptance Rate:                        0.338955
+Replacements:                               8300
+Total Samples:                             24487
+Nested Sampling ln(Z):                316.818998
+Acceptance Rate:                        0.337074
+Replacements:                               8350
+Total Samples:                             24772
+Nested Sampling ln(Z):                317.531806
+Acceptance Rate:                        0.334808
+Replacements:                               8400
+Total Samples:                             25089
+Nested Sampling ln(Z):                318.210282
+Acceptance Rate:                        0.332572
+Replacements:                               8450
+Total Samples:                             25408
+Nested Sampling ln(Z):                318.886800
+Acceptance Rate:                        0.331036
+Replacements:                               8500
+Total Samples:                             25677
+Nested Sampling ln(Z):                319.583345
+Acceptance Rate:                        0.329772
+Replacements:                               8550
+Total Samples:                             25927
+Nested Sampling ln(Z):                320.268549
+Acceptance Rate:                        0.329136
+Replacements:                               8600
+Total Samples:                             26129
+Nested Sampling ln(Z):                321.032829
+Acceptance Rate:                        0.327478
+Replacements:                               8650
+Total Samples:                             26414
+Nested Sampling ln(Z):                321.831556
+Acceptance Rate:                        0.325392
+Replacements:                               8700
+Total Samples:                             26737
+Nested Sampling ln(Z):                322.557764
+Acceptance Rate:                        0.323678
+Replacements:                               8750
+Total Samples:                             27033
+Nested Sampling ln(Z):                323.179820
+Acceptance Rate:                        0.322250
+Replacements:                               8800
+Total Samples:                             27308
+Nested Sampling ln(Z):                323.791226
+Acceptance Rate:                        0.321083
+Replacements:                               8850
+Total Samples:                             27563
+Nested Sampling ln(Z):                324.402894
+Acceptance Rate:                        0.319776
+Replacements:                               8900
+Total Samples:                             27832
+Nested Sampling ln(Z):                324.990509
+Acceptance Rate:                        0.319426
+Replacements:                               8950
+Total Samples:                             28019
+Nested Sampling ln(Z):                325.545568
+Acceptance Rate:                        0.317270
+Replacements:                               9000
+Total Samples:                             28367
+Nested Sampling ln(Z):                326.094682
+Acceptance Rate:                        0.315518
+Replacements:                               9050
+Total Samples:                             28683
+Nested Sampling ln(Z):                326.624592
+Acceptance Rate:                        0.314010
+Replacements:                               9100
+Total Samples:                             28980
+Nested Sampling ln(Z):                327.185289
+Acceptance Rate:                        0.312714
+Replacements:                               9150
+Total Samples:                             29260
+Nested Sampling ln(Z):                327.726171
+Acceptance Rate:                        0.310947
+Replacements:                               9200
+Total Samples:                             29587
+Nested Sampling ln(Z):                328.241682
+Acceptance Rate:                        0.310184
+Replacements:                               9250
+Total Samples:                             29821
+Nested Sampling ln(Z):                328.752269
+Acceptance Rate:                        0.308775
+Replacements:                               9300
+Total Samples:                             30119
+Nested Sampling ln(Z):                329.269829
+Acceptance Rate:                        0.306668
+Replacements:                               9350
+Total Samples:                             30489
+Nested Sampling ln(Z):                329.754067
+Acceptance Rate:                        0.305304
+Replacements:                               9400
+Total Samples:                             30789
+Nested Sampling ln(Z):                330.225546
+Acceptance Rate:                        0.303898
+Replacements:                               9450
+Total Samples:                             31096
+Nested Sampling ln(Z):                330.689703
+Acceptance Rate:                        0.302635
+Replacements:                               9500
+Total Samples:                             31391
+Nested Sampling ln(Z):                331.163435
+Acceptance Rate:                        0.301243
+Replacements:                               9550
+Total Samples:                             31702
+Nested Sampling ln(Z):                331.615950
+Acceptance Rate:                        0.300150
+Replacements:                               9600
+Total Samples:                             31984
+Nested Sampling ln(Z):                332.039521
+Acceptance Rate:                        0.298891
+Replacements:                               9650
+Total Samples:                             32286
+Nested Sampling ln(Z):                332.415787
+Acceptance Rate:                        0.297555
+Replacements:                               9700
+Total Samples:                             32599
+Nested Sampling ln(Z):                332.782693
+Acceptance Rate:                        0.296227
+Replacements:                               9750
+Total Samples:                             32914
+Nested Sampling ln(Z):                333.145185
+Acceptance Rate:                        0.294941
+Replacements:                               9800
+Total Samples:                             33227
+Nested Sampling ln(Z):                333.483411
+Acceptance Rate:                        0.293495
+Replacements:                               9850
+Total Samples:                             33561
+Nested Sampling ln(Z):                333.811263
+Acceptance Rate:                        0.292294
+Replacements:                               9900
+Total Samples:                             33870
+Nested Sampling ln(Z):                334.121569
+Acceptance Rate:                        0.290817
+Replacements:                               9950
+Total Samples:                             34214
+Nested Sampling ln(Z):                334.430146
+Acceptance Rate:                        0.289519
+Replacements:                              10000
+Total Samples:                             34540
+Nested Sampling ln(Z):                334.742524
+Acceptance Rate:                        0.288536
+Replacements:                              10050
+Total Samples:                             34831
+Nested Sampling ln(Z):                335.034197
+Acceptance Rate:                        0.287217
+Replacements:                              10100
+Total Samples:                             35165
+Nested Sampling ln(Z):                335.331404
+Acceptance Rate:                        0.285473
+Replacements:                              10150
+Total Samples:                             35555
+Nested Sampling ln(Z):                335.622142
+Acceptance Rate:                        0.283688
+Replacements:                              10200
+Total Samples:                             35955
+Nested Sampling ln(Z):                335.904375
+Acceptance Rate:                        0.282681
+Replacements:                              10250
+Total Samples:                             36260
+Nested Sampling ln(Z):                336.179115
+Acceptance Rate:                        0.281114
+Replacements:                              10300
+Total Samples:                             36640
+Nested Sampling ln(Z):                336.445889
+Acceptance Rate:                        0.279964
+Replacements:                              10350
+Total Samples:                             36969
+Nested Sampling ln(Z):                336.705237
+Acceptance Rate:                        0.279360
+Replacements:                              10400
+Total Samples:                             37228
+Nested Sampling ln(Z):                336.956918
+Acceptance Rate:                        0.278088
+Replacements:                              10450
+Total Samples:                             37578
+Nested Sampling ln(Z):                337.195283
+Acceptance Rate:                        0.277023
+Replacements:                              10500
+Total Samples:                             37903
+Nested Sampling ln(Z):                337.428480
+Acceptance Rate:                        0.275954
+Replacements:                              10550
+Total Samples:                             38231
+Nested Sampling ln(Z):                337.658228
+Acceptance Rate:                        0.275167
+Replacements:                              10600
+Total Samples:                             38522
+Nested Sampling ln(Z):                337.885583
+Acceptance Rate:                        0.274485
+Replacements:                              10650
+Total Samples:                             38800
+Nested Sampling ln(Z):                338.114887
+Acceptance Rate:                        0.273378
+Replacements:                              10700
+Total Samples:                             39140
+Nested Sampling ln(Z):                338.341275
+Acceptance Rate:                        0.273148
+Replacements:                              10750
+Total Samples:                             39356
+Nested Sampling ln(Z):                338.566068
+Acceptance Rate:                        0.271575
+Replacements:                              10800
+Total Samples:                             39768
+Nested Sampling ln(Z):                338.786429
+Acceptance Rate:                        0.269693
+Replacements:                              10850
+Total Samples:                             40231
+Nested Sampling ln(Z):                338.994556
+Acceptance Rate:                        0.268718
+Replacements:                              10900
+Total Samples:                             40563
+Nested Sampling ln(Z):                339.191966
+Acceptance Rate:                        0.267759
+Replacements:                              10950
+Total Samples:                             40895
+Nested Sampling ln(Z):                339.380277
+Acceptance Rate:                        0.266822
+Replacements:                              11000
+Total Samples:                             41226
+Nested Sampling ln(Z):                339.562152
+Acceptance Rate:                        0.265983
+Replacements:                              11050
+Total Samples:                             41544
+Nested Sampling ln(Z):                339.735132
+Acceptance Rate:                        0.264904
+Replacements:                              11100
+Total Samples:                             41902
+Nested Sampling ln(Z):                339.902993
+Acceptance Rate:                        0.263681
+Replacements:                              11150
+Total Samples:                             42286
+Nested Sampling ln(Z):                340.071641
+Acceptance Rate:                        0.262553
+Replacements:                              11200
+Total Samples:                             42658
+Nested Sampling ln(Z):                340.234245
+Acceptance Rate:                        0.262012
+Replacements:                              11250
+Total Samples:                             42937
+Nested Sampling ln(Z):                340.394109
+Acceptance Rate:                        0.260753
+Replacements:                              11300
+Total Samples:                             43336
+Nested Sampling ln(Z):                340.546314
+Acceptance Rate:                        0.259791
+Replacements:                              11350
+Total Samples:                             43689
+Nested Sampling ln(Z):                340.695199
+Acceptance Rate:                        0.258421
+Replacements:                              11400
+Total Samples:                             44114
+Nested Sampling ln(Z):                340.838431
+Acceptance Rate:                        0.256847
+Replacements:                              11450
+Total Samples:                             44579
+Nested Sampling ln(Z):                340.979025
+Acceptance Rate:                        0.255846
+Replacements:                              11500
+Total Samples:                             44949
+Nested Sampling ln(Z):                341.115797
+Acceptance Rate:                        0.254366
+Replacements:                              11550
+Total Samples:                             45407
+Nested Sampling ln(Z):                341.252298
+Acceptance Rate:                        0.253330
+Replacements:                              11600
+Total Samples:                             45790
+Nested Sampling ln(Z):                341.388076
+Acceptance Rate:                        0.252394
+Replacements:                              11650
+Total Samples:                             46158
+Nested Sampling ln(Z):                341.522467
+Acceptance Rate:                        0.251267
+Replacements:                              11700
+Total Samples:                             46564
+Nested Sampling ln(Z):                341.653407
+Acceptance Rate:                        0.249878
+Replacements:                              11750
+Total Samples:                             47023
+Nested Sampling ln(Z):                341.776455
+Acceptance Rate:                        0.248945
+Replacements:                              11800
+Total Samples:                             47400
+Nested Sampling ln(Z):                341.894565
+Acceptance Rate:                        0.248100
+Replacements:                              11850
+Total Samples:                             47763
+Nested Sampling ln(Z):                342.008350
+Acceptance Rate:                        0.246806
+Replacements:                              11900
+Total Samples:                             48216
+Nested Sampling ln(Z):                342.117470
+Acceptance Rate:                        0.245637
+Replacements:                              11950
+Total Samples:                             48649
+Nested Sampling ln(Z):                342.224033
+Acceptance Rate:                        0.244828
+Replacements:                              12000
+Total Samples:                             49014
+Nested Sampling ln(Z):                342.326824
+Acceptance Rate:                        0.243484
+Replacements:                              12050
+Total Samples:                             49490
+Nested Sampling ln(Z):                342.428220
+Acceptance Rate:                        0.242150
+Replacements:                              12100
+Total Samples:                             49969
+Nested Sampling ln(Z):                342.528957
+Acceptance Rate:                        0.241196
+Replacements:                              12150
+Total Samples:                             50374
+Nested Sampling ln(Z):                342.627690
+Acceptance Rate:                        0.240224
+Replacements:                              12200
+Total Samples:                             50786
+Nested Sampling ln(Z):                342.724911
+Acceptance Rate:                        0.239436
+Replacements:                              12250
+Total Samples:                             51162
+Nested Sampling ln(Z):                342.821631
+Acceptance Rate:                        0.238562
+Replacements:                              12300
+Total Samples:                             51559
+Nested Sampling ln(Z):                342.916579
+Acceptance Rate:                        0.237578
+Replacements:                              12350
+Total Samples:                             51983
+Nested Sampling ln(Z):                343.009308
+Acceptance Rate:                        0.236971
+Replacements:                              12400
+Total Samples:                             52327
+Nested Sampling ln(Z):                343.098770
+Acceptance Rate:                        0.236333
+Replacements:                              12450
+Total Samples:                             52680
+Nested Sampling ln(Z):                343.184749
+Acceptance Rate:                        0.235818
+Replacements:                              12500
+Total Samples:                             53007
+Nested Sampling ln(Z):                343.267936
+Acceptance Rate:                        0.235102
+Replacements:                              12550
+Total Samples:                             53381
+Nested Sampling ln(Z):                343.347635
+Acceptance Rate:                        0.234018
+Replacements:                              12600
+Total Samples:                             53842
+Nested Sampling ln(Z):                343.424215
+Acceptance Rate:                        0.233503
+Replacements:                              12650
+Total Samples:                             54175
+Nested Sampling ln(Z):                343.498050
+Acceptance Rate:                        0.232550
+Replacements:                              12700
+Total Samples:                             54612
+Nested Sampling ln(Z):                343.569644
+Acceptance Rate:                        0.231297
+Replacements:                              12750
+Total Samples:                             55124
+Nested Sampling ln(Z):                343.638944
+Acceptance Rate:                        0.230460
+Replacements:                              12800
+Total Samples:                             55541
+Nested Sampling ln(Z):                343.706034
+Acceptance Rate:                        0.229957
+Replacements:                              12850
+Total Samples:                             55880
+Nested Sampling ln(Z):                343.771262
+Acceptance Rate:                        0.229081
+Replacements:                              12900
+Total Samples:                             56312
+Nested Sampling ln(Z):                343.834715
+Acceptance Rate:                        0.228500
+Replacements:                              12950
+Total Samples:                             56674
+Nested Sampling ln(Z):                343.895862
+Acceptance Rate:                        0.227519
+Replacements:                              13000
+Total Samples:                             57138
+Nested Sampling ln(Z):                343.955731
+Acceptance Rate:                        0.226197
+Replacements:                              13050
+Total Samples:                             57693
+Nested Sampling ln(Z):                344.014034
+Acceptance Rate:                        0.225458
+Replacements:                              13100
+Total Samples:                             58104
+Nested Sampling ln(Z):                344.070941
+Acceptance Rate:                        0.224185
+Replacements:                              13150
+Total Samples:                             58657
+Nested Sampling ln(Z):                344.126416
+Acceptance Rate:                        0.223312
+Replacements:                              13200
+Total Samples:                             59110
+Nested Sampling ln(Z):                344.181785
+Acceptance Rate:                        0.222813
+Replacements:                              13250
+Total Samples:                             59467
+Nested Sampling ln(Z):                344.236586
+Acceptance Rate:                        0.222233
+Replacements:                              13300
+Total Samples:                             59847
+Nested Sampling ln(Z):                344.289988
+Acceptance Rate:                        0.220712
+Replacements:                              13350
+Total Samples:                             60486
+Nested Sampling ln(Z):                344.342225
+Acceptance Rate:                        0.220062
+Replacements:                              13400
+Total Samples:                             60892
+Nested Sampling ln(Z):                344.392977
+Acceptance Rate:                        0.219509
+Replacements:                              13450
+Total Samples:                             61273
+Nested Sampling ln(Z):                344.442003
+Acceptance Rate:                        0.218893
+Replacements:                              13500
+Total Samples:                             61674
+Nested Sampling ln(Z):                344.489685
+Acceptance Rate:                        0.217636
+Replacements:                              13550
+Total Samples:                             62260
+Nested Sampling ln(Z):                344.535865
+Acceptance Rate:                        0.216743
+Replacements:                              13600
+Total Samples:                             62747
+Nested Sampling ln(Z):                344.580286
+Acceptance Rate:                        0.216063
+Replacements:                              13650
+Total Samples:                             63176
+Nested Sampling ln(Z):                344.623049
+Acceptance Rate:                        0.215439
+Replacements:                              13700
+Total Samples:                             63591
+Nested Sampling ln(Z):                344.664744
+Acceptance Rate:                        0.214743
+Replacements:                              13750
+Total Samples:                             64030
+Nested Sampling ln(Z):                344.705605
+Acceptance Rate:                        0.213914
+Replacements:                              13800
+Total Samples:                             64512
+Nested Sampling ln(Z):                344.745496
+Acceptance Rate:                        0.213087
+Replacements:                              13850
+Total Samples:                             64997
+Nested Sampling ln(Z):                344.784579
+Acceptance Rate:                        0.212743
+Replacements:                              13900
+Total Samples:                             65337
+Nested Sampling ln(Z):                344.822574
+Acceptance Rate:                        0.211823
+Replacements:                              13950
+Total Samples:                             65857
+Nested Sampling ln(Z):                344.859371
+Acceptance Rate:                        0.211075
+Replacements:                              14000
+Total Samples:                             66327
+Nested Sampling ln(Z):                344.895667
+Acceptance Rate:                        0.210408
+Replacements:                              14050
+Total Samples:                             66775
+Nested Sampling ln(Z):                344.930922
+Acceptance Rate:                        0.209606
+Replacements:                              14100
+Total Samples:                             67269
+Nested Sampling ln(Z):                344.965245
+Acceptance Rate:                        0.208841
+Replacements:                              14150
+Total Samples:                             67755
+Nested Sampling ln(Z):                344.998553
+Acceptance Rate:                        0.208098
+Replacements:                              14200
+Total Samples:                             68237
+Nested Sampling ln(Z):                345.030956
+Acceptance Rate:                        0.206761
+Replacements:                              14250
+Total Samples:                             68920
+Nested Sampling ln(Z):                345.062376
+Acceptance Rate:                        0.206102
+Replacements:                              14300
+Total Samples:                             69383
+Nested Sampling ln(Z):                345.093146
+Acceptance Rate:                        0.205417
+Replacements:                              14350
+Total Samples:                             69858
+Nested Sampling ln(Z):                345.122994
+Acceptance Rate:                        0.204665
+Replacements:                              14400
+Total Samples:                             70359
+Nested Sampling ln(Z):                345.151860
+Acceptance Rate:                        0.203564
+Replacements:                              14450
+Total Samples:                             70985
+Nested Sampling ln(Z):                345.179836
+Acceptance Rate:                        0.202457
+Replacements:                              14500
+Total Samples:                             71620
+Nested Sampling ln(Z):                345.206969
+Acceptance Rate:                        0.201627
+Replacements:                              14550
+Total Samples:                             72163
+Nested Sampling ln(Z):                345.233116
+Acceptance Rate:                        0.200850
+Replacements:                              14600
+Total Samples:                             72691
+Nested Sampling ln(Z):                345.258714
+Acceptance Rate:                        0.200071
+Replacements:                              14650
+Total Samples:                             73224
+Nested Sampling ln(Z):                345.283649
+Acceptance Rate:                        0.199465
+Replacements:                              14700
+Total Samples:                             73697
+Nested Sampling ln(Z):                345.307725
+Acceptance Rate:                        0.198549
+Replacements:                              14750
+Total Samples:                             74289
+Nested Sampling ln(Z):                345.330896
+Acceptance Rate:                        0.197724
+Replacements:                              14800
+Total Samples:                             74852
+Nested Sampling ln(Z):                345.353175
+Acceptance Rate:                        0.196754
+Replacements:                              14850
+Total Samples:                             75475
+Nested Sampling ln(Z):                345.374650
+Acceptance Rate:                        0.196081
+Replacements:                              14900
+Total Samples:                             75989
+Nested Sampling ln(Z):                345.395502
+Acceptance Rate:                        0.195180
+Replacements:                              14950
+Total Samples:                             76596
+Nested Sampling ln(Z):                345.415812
+Acceptance Rate:                        0.194437
+Replacements:                              15000
+Total Samples:                             77146
+Nested Sampling ln(Z):                345.435474
+Acceptance Rate:                        0.193244
+Replacements:                              15050
+Total Samples:                             77881
+Nested Sampling ln(Z):                345.454523
+Acceptance Rate:                        0.192357
+Replacements:                              15100
+Total Samples:                             78500
+Nested Sampling ln(Z):                345.473148
+Acceptance Rate:                        0.191804
+Replacements:                              15150
+Total Samples:                             78987
+Nested Sampling ln(Z):                345.491187
+Acceptance Rate:                        0.191034
+Replacements:                              15200
+Total Samples:                             79567
+Nested Sampling ln(Z):                345.508606
+Acceptance Rate:                        0.190199
+Replacements:                              15250
+Total Samples:                             80179
+Nested Sampling ln(Z):                345.525524
+Acceptance Rate:                        0.189385
+Replacements:                              15300
+Total Samples:                             80788
+Nested Sampling ln(Z):                345.541852
+Acceptance Rate:                        0.188279
+Replacements:                              15350
+Total Samples:                             81528
+Nested Sampling ln(Z):                345.557763
+Acceptance Rate:                        0.187316
+Replacements:                              15400
+Total Samples:                             82214
+Nested Sampling ln(Z):                345.573189
+Acceptance Rate:                        0.186594
+Replacements:                              15450
+Total Samples:                             82800
+Nested Sampling ln(Z):                345.588071
+Acceptance Rate:                        0.185449
+Replacements:                              15500
+Total Samples:                             83581
+Nested Sampling ln(Z):                345.602409
+Acceptance Rate:                        0.184789
+Replacements:                              15550
+Total Samples:                             84150
+Nested Sampling ln(Z):                345.616338
+Acceptance Rate:                        0.184071
+Replacements:                              15600
+Total Samples:                             84750
+Nested Sampling ln(Z):                345.629865
+Acceptance Rate:                        0.183335
+Replacements:                              15650
+Total Samples:                             85363
+Nested Sampling ln(Z):                345.642942
+Acceptance Rate:                        0.182518
+Replacements:                              15700
+Total Samples:                             86019
+Nested Sampling ln(Z):                345.655616
+Acceptance Rate:                        0.181676
+Replacements:                              15750
+Total Samples:                             86693
+Nested Sampling ln(Z):                345.667890
+Acceptance Rate:                        0.180886
+Replacements:                              15800
+Total Samples:                             87348
+Nested Sampling ln(Z):                345.679763
+Acceptance Rate:                        0.180314
+Replacements:                              15850
+Total Samples:                             87902
+Nested Sampling ln(Z):                345.691212
+Acceptance Rate:                        0.179728
+Replacements:                              15900
+Total Samples:                             88467
+Nested Sampling ln(Z):                345.702288
+Acceptance Rate:                        0.178631
+Replacements:                              15950
+Total Samples:                             89290
+Nested Sampling ln(Z):                345.713037
+Acceptance Rate:                        0.177612
+Replacements:                              16000
+Total Samples:                             90084
+Nested Sampling ln(Z):                345.723463
+Acceptance Rate:                        0.176636
+Replacements:                              16050
+Total Samples:                             90865
+Nested Sampling ln(Z):                345.733590
+Acceptance Rate:                        0.175645
+Replacements:                              16100
+Total Samples:                             91662
+Nested Sampling ln(Z):                345.743442
+Acceptance Rate:                        0.174600
+Replacements:                              16150
+Total Samples:                             92497
+Nested Sampling ln(Z):                345.753003
+Acceptance Rate:                        0.173842
+Replacements:                              16200
+Total Samples:                             93188
+Nested Sampling ln(Z):                345.762250
+Acceptance Rate:                        0.173040
+Replacements:                              16250
+Total Samples:                             93909
+Nested Sampling ln(Z):                345.771143
+Acceptance Rate:                        0.172328
+Replacements:                              16300
+Total Samples:                             94587
+Nested Sampling ln(Z):                345.779725
+Acceptance Rate:                        0.171829
+Replacements:                              16350
+Total Samples:                             95153
+Nested Sampling ln(Z):                345.788059
+Acceptance Rate:                        0.171135
+Replacements:                              16400
+Total Samples:                             95831
+Nested Sampling ln(Z):                345.796108
+Acceptance Rate:                        0.170293
+Replacements:                              16450
+Total Samples:                             96598
+Nested Sampling ln(Z):                345.803917
+Acceptance Rate:                        0.169498
+Replacements:                              16500
+Total Samples:                             97346
+Nested Sampling ln(Z):                345.811472
+Acceptance Rate:                        0.168772
+Replacements:                              16550
+Total Samples:                             98061
+Nested Sampling ln(Z):                345.818753
+Acceptance Rate:                        0.168071
+Replacements:                              16600
+Total Samples:                             98768
+Nested Sampling ln(Z):                345.825800
+Acceptance Rate:                        0.167422
+Replacements:                              16650
+Total Samples:                             99449
+Nested Sampling ln(Z):                345.832601
+Acceptance Rate:                        0.166723
+Replacements:                              16700
+Total Samples:                            100166
+Nested Sampling ln(Z):                345.839207
+Acceptance Rate:                        0.166199
+Replacements:                              16750
+Total Samples:                            100783
+Nested Sampling ln(Z):                345.845590
+Acceptance Rate:                        0.165390
+Replacements:                              16800
+Total Samples:                            101578
+Nested Sampling ln(Z):                345.851757
+Acceptance Rate:                        0.164696
+Replacements:                              16850
+Total Samples:                            102310
+Nested Sampling ln(Z):                345.857748
+Acceptance Rate:                        0.164092
+Replacements:                              16900
+Total Samples:                            102991
+Nested Sampling ln(Z):                345.863562
+Acceptance Rate:                        0.163031
+Replacements:                              16950
+Total Samples:                            103968
+Nested Sampling ln(Z):                345.869188
+Acceptance Rate:                        0.162662
+Replacements:                              17000
+Total Samples:                            104511
+Nested Sampling ln(Z):                345.874624
+Acceptance Rate:                        0.161955
+Replacements:                              17050
+Total Samples:                            105276
+Nested Sampling ln(Z):                345.879876
+Acceptance Rate:                        0.161065
+Replacements:                              17100
+Total Samples:                            106168
+Nested Sampling ln(Z):                345.884961
+Acceptance Rate:                        0.160288
+Replacements:                              17150
+Total Samples:                            106995
+Nested Sampling ln(Z):                345.889881
+Acceptance Rate:                        0.159496
+Replacements:                              17200
+Total Samples:                            107840
+Nested Sampling ln(Z):                345.894641
+Acceptance Rate:                        0.158956
+Replacements:                              17249
+Total Samples:                            108514
+Nested Sampling ln(Z):                345.899152
+ ln(ev)=   346.02910841720330      +/-  0.10957233657078404     
+ Total Likelihood Evaluations:       108514
+ Sampling finished. Exiting MultiNest
+THIS RETRIEVAL TOOK 0:03:18.849356
+  analysing data from ret_out_m/xK_10.txt
+ CREATING CORNER PLOT WITH ACTUAL VALUES 
+model "ret_out_m/xK_10"
+n_params = 8
+  analysing data from ret_out_m/xK_10.txt
+  marginal likelihood:
+    ln Z = 346.0 +- 0.1
+  parameters:
+    $\mathrm{log}(X_{H_2O})$-3.16 + 0.36 - 0.48
+    $\mathrm{log}(X_{H_2O})$-2.53
+    $\mathrm{log}(X_{Na})$-5.52 + 0.74 - 1.04
+    $\mathrm{log}(X_{Na})$-4.31
+    $T_{0}$        1415 + 64 - 52
+    $T_{0}$        1564
+    $\mathrm{log}(P_{ref})$1.26 + 0.44 - 0.38
+    $\mathrm{log}(P_{ref})$1.92
+    $\mathrm{log}(a)$-1.6 + 1.9 - 1.6
+    $\mathrm{log}(a)$5.9
+    $\gamma$       -9.9 + 7.2 - 6.8
+    $\gamma$       0.8
+    $\mathrm{log}(P_c)$-0.8 + 1.9 - 1.2
+    $\mathrm{log}(P_c)$1.9
+    $\bar{\phi}$   0.31 + 0.36 - 0.22
+    $\bar{\phi}$   0.91
+creating marginal plot ...
+model "ret_out_m/xK_10"
+  analysing data from ret_out_m/xK_10.txt
+max log likelihood = 361.4533167142891
+reduced chi-square = 1.9985786612504715
+ln Z = 346.0 +- 0.1
+  analysing data from ret_out_m/xK_10.txt
+  analysing data from ret_out_m/xK_10.txt
